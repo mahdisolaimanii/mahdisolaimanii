@@ -1,9 +1,8 @@
-### Hi, I'm Mahdi Solaimani (M) 👋
+### Mahdi Solaimani
 
-Researcher & entrepreneur exploring software, AI, and emerging technology.
-Building real things out of continuous learning.
+Researcher and entrepreneur working in software and AI. 
+Still deciding if the AI is helping me or the other way around.
 
-🔭 Currently building **[M AI](https://github.com/mahdisolaimanii/m-ai)** — 
-a self-hosted multi-provider AI chat interface (OpenAI, Claude, Gemini, Mistral, Groq, OpenRouter)
-
-🌱 Learning in public — sharing projects and progress as I go
+Currently building [M AI](https://github.com/mahdisolaimanii/m-ai) — a self-hosted 
+chat app that lets you talk to OpenAI, Claude, Gemini, Mistral, Groq, and OpenRouter 
+from one place. Because choosing just one AI felt like commitment issues.
